@@ -1,0 +1,415 @@
+2024-12-20T13:27:03.269Z [INFO]: MySQL Connected...
+2024-12-20T13:28:46.625Z [INFO]: MySQL Connected...
+2024-12-20T13:30:08.823Z [INFO]: MySQL Connected...
+2024-12-20T13:30:47.711Z [INFO]: MySQL Connected...
+2024-12-20T13:31:06.508Z [INFO]: MySQL Connected...
+2024-12-20T13:31:19.075Z [INFO]: MySQL Connected...
+2024-12-20T13:31:37.145Z [INFO]: MySQL Connected...
+2024-12-20T13:31:40.092Z [INFO]: MySQL Connected...
+2024-12-20T13:31:49.598Z [INFO]: MySQL Connected...
+2024-12-20T13:31:57.840Z [INFO]: MySQL Connected...
+2024-12-20T13:33:00.641Z [INFO]: MySQL Connected...
+2024-12-20T13:33:18.668Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: TSA2
+2024-12-20T13:33:35.448Z [INFO]: MySQL Connected...
+2024-12-20T13:34:05.496Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:34:06.262Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:34:18.935Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:34:20.009Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:34:21.823Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:35:48.312Z [INFO]: MySQL Connected...
+2024-12-20T13:35:50.784Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:35:51.699Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:35:54.900Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:35:55.447Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:35:56.085Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:36:40.981Z [INFO]: MySQL Connected...
+2024-12-20T13:36:48.102Z [INFO]: MySQL Connected...
+2024-12-20T13:36:59.910Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:37:00.381Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:37:07.085Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:37:07.580Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:37:07.930Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:38:28.347Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:38:29.372Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:38:31.980Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:38:35.180Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:38:35.718Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:38:36.002Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:45:08.139Z [INFO]: MySQL Connected...
+2024-12-20T13:45:12.269Z [INFO]: MySQL Connected...
+2024-12-20T13:45:14.429Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:45:15.055Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T13:45:17.918Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:45:18.708Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T13:45:20.778Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:12:32.553Z [INFO]: MySQL Connected...
+2024-12-20T14:12:49.019Z [INFO]: MySQL Connected...
+2024-12-20T14:13:20.369Z [INFO]: MySQL Connected...
+2024-12-20T14:13:22.825Z [INFO]: MySQL Connected...
+2024-12-20T14:31:22.185Z [INFO]: MySQL Connected...
+2024-12-20T14:31:22.860Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:31:23.727Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:31:26.925Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:31:27.336Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:31:30.047Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:32:04.063Z [INFO]: MySQL Connected...
+2024-12-20T14:32:13.927Z [INFO]: MySQL Connected...
+2024-12-20T14:32:16.256Z [INFO]: MySQL Connected...
+2024-12-20T14:32:16.796Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:32:17.647Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:32:20.309Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:32:21.013Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:32:22.382Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:47:44.084Z [INFO]: MySQL Connected...
+2024-12-20T14:47:52.046Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:47:52.611Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:47:55.607Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:47:56.195Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:47:57.083Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:48:39.734Z [INFO]: MySQL Connected...
+2024-12-20T14:48:45.824Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:48:46.791Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:48:49.202Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:48:49.839Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:48:50.095Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:49:44.427Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:49:45.313Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:49:47.001Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:51:33.748Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:51:35.975Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:51:41.660Z [INFO]: MySQL Connected...
+2024-12-20T14:51:42.385Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:51:43.178Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:51:46.137Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:52:00.325Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 65
+2024-12-20T14:52:25.954Z [INFO]: MySQL Connected...
+2024-12-20T14:52:30.388Z [INFO]: MySQL Connected...
+2024-12-20T14:52:45.548Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:52:46.326Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:52:49.777Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:52:50.575Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:53:42.293Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:53:47.350Z [INFO]: MySQL Connected...
+2024-12-20T14:53:47.824Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:53:49.176Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:53:59.038Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:54:10.279Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 70
+2024-12-20T14:54:45.246Z [INFO]: MySQL Connected...
+2024-12-20T14:54:48.796Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:54:49.380Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: GLH1
+2024-12-20T14:54:52.157Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 1
+2024-12-20T14:55:01.778Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 0551196764, User Input: 450
+2024-12-20T14:57:24.315Z [INFO]: MySQL Connected...
+2024-12-20T14:57:50.514Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T14:57:51.221Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T14:57:59.427Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T14:58:00.994Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T14:58:06.524Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T15:01:49.204Z [INFO]: MySQL Connected...
+2024-12-20T15:01:57.314Z [INFO]: MySQL Connected...
+2024-12-20T15:02:02.364Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T15:02:03.064Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T15:02:06.783Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T15:02:07.471Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T15:02:10.047Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:22:55.293Z [INFO]: MySQL Connected...
+2024-12-20T16:23:53.101Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T16:23:53.566Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T16:23:57.733Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:23:59.022Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:24:02.606Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:29:38.450Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:29:50.244Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:29:57.429Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:30:06.104Z [INFO]: MySQL Connected...
+2024-12-20T16:30:06.782Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:41:02.903Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233244473320, User Input: 1
+2024-12-20T16:41:02.909Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233542099687, User Input: 2
+2024-12-20T16:41:03.132Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233545518149, User Input: 2
+2024-12-20T16:41:15.002Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233242119109, User Input: 1
+2024-12-20T16:41:28.111Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T16:41:36.532Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596912155, User Input: 1
+2024-12-20T16:41:36.885Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233545518149, User Input: 1
+2024-12-20T16:41:36.905Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596912168, User Input: 1
+2024-12-20T16:41:37.414Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233245884522, User Input: GX 8864 13
+2024-12-20T16:41:37.723Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233593557795, User Input: 2323
+2024-12-20T16:41:38.856Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233242633342, User Input: as4279y
+2024-12-20T16:41:39.042Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596912861, User Input: 1
+2024-12-20T16:41:39.858Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331841, User Input: 0122060001300
+2024-12-20T16:41:40.167Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: glh1
+2024-12-20T16:41:40.206Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233531032312, User Input: 3221
+2024-12-20T16:41:41.977Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233542099687, User Input: 5
+2024-12-20T16:41:44.079Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233245677797, User Input: GR-9868-Y
+2024-12-20T16:41:44.225Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233248319072, User Input: 1
+2024-12-20T16:41:46.144Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233249634014, User Input: 3
+2024-12-20T16:41:46.536Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233201726344, User Input: release
+2024-12-20T16:41:46.859Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:41:48.367Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233244570727, User Input: GT 765V
+2024-12-20T16:41:52.545Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:41:52.866Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233593259469, User Input: 1220011397500
+2024-12-20T16:41:53.807Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233500696453, User Input: User timeout
+2024-12-20T16:41:54.082Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233244872694, User Input: Gs291017
+2024-12-20T16:41:58.098Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233257610882, User Input: 2
+2024-12-20T16:41:58.643Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233242633342, User Input: as4279y
+2024-12-20T16:41:59.175Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:42:03.222Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233544048264, User Input: 2
+2024-12-20T16:42:09.344Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233536970573, User Input: MGS4
+2024-12-20T16:42:10.291Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233249634014, User Input: 8074
+2024-12-20T16:42:19.534Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233242633342, User Input: as4279y
+2024-12-20T16:42:19.914Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233536970573, User Input: 21
+2024-12-20T16:42:26.023Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233202556242, User Input: User timeout
+2024-12-20T16:42:33.422Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233242633342, User Input: as4279y
+2024-12-20T16:42:57.642Z [INFO]: MySQL Connected...
+2024-12-20T16:43:12.149Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T16:43:21.599Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: glh1
+2024-12-20T16:43:27.415Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:43:34.127Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:43:39.915Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:44:01.541Z [INFO]: MySQL Connected...
+2024-12-20T16:44:19.947Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T16:44:33.642Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T16:44:48.453Z [INFO]: MySQL Connected...
+2024-12-20T16:45:06.642Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T16:45:38.082Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: glh1
+2024-12-20T16:45:42.921Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:45:49.583Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:45:54.955Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:46:16.271Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T16:46:17.494Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T16:46:18.552Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T16:46:21.392Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:46:22.192Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:46:23.200Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T16:46:59.732Z [INFO]: MySQL Connected...
+2024-12-20T16:47:17.983Z [INFO]: MySQL Connected...
+2024-12-20T16:47:30.591Z [INFO]: MySQL Connected...
+2024-12-20T16:47:48.524Z [INFO]: MySQL Connected...
+2024-12-20T16:47:51.772Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233554891712, User Input: 99
+2024-12-20T16:47:58.465Z [INFO]: MySQL Connected...
+2024-12-20T16:48:19.264Z [INFO]: MySQL Connected...
+2024-12-20T16:48:34.635Z [INFO]: MySQL Connected...
+2024-12-20T16:48:42.401Z [INFO]: MySQL Connected...
+2024-12-20T16:49:36.938Z [INFO]: MySQL Connected...
+2024-12-20T16:49:44.727Z [INFO]: MySQL Connected...
+2024-12-20T16:49:58.464Z [INFO]: MySQL Connected...
+2024-12-20T16:50:00.365Z [INFO]: MySQL Connected...
+2024-12-20T16:50:06.506Z [INFO]: MySQL Connected...
+2024-12-20T16:50:18.000Z [INFO]: MySQL Connected...
+2024-12-20T16:50:24.097Z [INFO]: MySQL Connected...
+2024-12-20T16:50:26.482Z [INFO]: MySQL Connected...
+2024-12-20T16:50:37.492Z [INFO]: MySQL Connected...
+2024-12-20T16:50:39.497Z [INFO]: MySQL Connected...
+2024-12-20T16:50:48.496Z [INFO]: MySQL Connected...
+2024-12-20T16:51:01.389Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233549135522, User Input: 1
+2024-12-20T16:51:02.084Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233267932804, User Input: 1
+2024-12-20T16:51:03.069Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331841, User Input: 1
+2024-12-20T16:51:04.768Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233554624648, User Input: 4
+2024-12-20T16:51:04.813Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233593974655, User Input: 1281410000159031
+2024-12-20T16:51:05.547Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233530286480, User Input: 2
+2024-12-20T16:51:05.966Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233244718363, User Input: gs9081-18
+2024-12-20T16:51:06.026Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331841, User Input: User timeout
+2024-12-20T16:51:06.089Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233500762192, User Input: CR 15-22
+2024-12-20T16:51:06.573Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233555223722, User Input: 1
+2024-12-20T16:51:06.917Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233597768546, User Input: 1
+2024-12-20T16:51:07.039Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596912019, User Input: 1281210000006401
+2024-12-20T16:51:07.259Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233234435550, User Input: GT 1135-20
+2024-12-20T16:51:07.507Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233592146316, User Input: AF6
+2024-12-20T16:51:08.880Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233540796548, User Input: 1
+2024-12-20T16:51:09.024Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596912167, User Input: 128131
+2024-12-20T16:51:09.693Z [INFO]: MySQL Connected...
+2024-12-20T16:51:11.265Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233243914645, User Input: 1
+2024-12-20T16:51:12.857Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233536545749, User Input: 8
+2024-12-20T16:51:15.104Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233592719323, User Input: 1
+2024-12-20T16:51:16.021Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233243210738, User Input: GG4138-20
+2024-12-20T16:51:17.064Z [INFO]: MySQL Connected...
+2024-12-20T16:51:18.831Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233549135522, User Input: 6
+2024-12-20T16:51:19.106Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233555223722, User Input: 6250
+2024-12-20T16:51:19.547Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233540796548, User Input: SJ26
+2024-12-20T16:51:22.031Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596912148, User Input: 1281210000188121
+2024-12-20T16:51:23.581Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233597768546, User Input: 0
+2024-12-20T16:51:26.902Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233555223722, User Input: 6250
+2024-12-20T16:51:27.006Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233599559882, User Input: GM 3435 14
+2024-12-20T16:51:28.825Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233201147915, User Input: User timeout
+2024-12-20T16:51:33.951Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233249877460, User Input: 7
+2024-12-20T16:51:34.396Z [INFO]: MySQL Connected...
+2024-12-20T16:51:35.204Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233536545749, User Input: 2322
+2024-12-20T16:51:38.403Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233555223722, User Input: 6250
+2024-12-20T16:51:41.499Z [INFO]: MySQL Connected...
+2024-12-20T16:51:41.736Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233597768546, User Input: 2023
+2024-12-20T16:51:42.786Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233536545749, User Input: 1
+2024-12-20T16:51:44.417Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233256358148, User Input: 1
+2024-12-20T16:51:45.912Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233592719323, User Input: GDBY1
+2024-12-20T16:51:48.567Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233243210738, User Input: GG4139-20
+2024-12-20T16:51:49.453Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233555223722, User Input: 6250
+2024-12-20T16:51:52.132Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233536545749, User Input: 2541
+2024-12-20T16:51:55.310Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233555223722, User Input: 6250
+2024-12-20T16:51:58.856Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233592719323, User Input: 1
+2024-12-20T16:52:10.574Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233536545749, User Input: 0
+2024-12-20T16:52:17.596Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233597768546, User Input: 31
+2024-12-20T16:52:31.206Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233592719323, User Input: GDBY1
+2024-12-20T16:52:35.873Z [INFO]: MySQL Connected...
+2024-12-20T16:52:46.294Z [INFO]: MySQL Connected...
+2024-12-20T16:53:03.185Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233592719323, User Input: GDBY1
+2024-12-20T16:53:05.509Z [INFO]: MySQL Connected...
+2024-12-20T16:53:07.675Z [INFO]: MySQL Connected...
+2024-12-20T16:53:14.406Z [INFO]: MySQL Connected...
+2024-12-20T16:58:20.697Z [INFO]: MySQL Connected...
+2024-12-20T16:58:27.018Z [INFO]: MySQL Connected...
+2024-12-20T16:58:34.592Z [INFO]: MySQL Connected...
+2024-12-20T16:58:41.547Z [INFO]: MySQL Connected...
+2024-12-20T17:00:03.998Z [INFO]: MySQL Connected...
+2024-12-20T17:00:19.946Z [INFO]: MySQL Connected...
+2024-12-20T17:00:42.874Z [INFO]: MySQL Connected...
+2024-12-20T17:01:26.404Z [INFO]: MySQL Connected...
+2024-12-20T17:02:09.223Z [INFO]: MySQL Connected...
+2024-12-20T17:02:37.539Z [INFO]: MySQL Connected...
+2024-12-20T17:02:50.909Z [INFO]: MySQL Connected...
+2024-12-20T17:03:06.471Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T17:03:14.324Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: glh1
+2024-12-20T17:03:18.654Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:03:24.170Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:03:31.185Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:03:54.720Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: , User Input: *920*20
+2024-12-20T17:04:17.237Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233243314712, User Input: 3
+2024-12-20T17:04:17.640Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331841, User Input: 3511
+2024-12-20T17:04:18.271Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538003724, User Input: 1
+2024-12-20T17:04:18.298Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331844, User Input: User timeout
+2024-12-20T17:04:18.498Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501669231, User Input: 1
+2024-12-20T17:04:18.793Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233247791276, User Input: 1
+2024-12-20T17:04:19.829Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233591921693, User Input: 1
+2024-12-20T17:04:20.019Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233543130075, User Input: 1
+2024-12-20T17:04:20.128Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233272702513, User Input: 13
+2024-12-20T17:04:20.661Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551787843, User Input: 0
+2024-12-20T17:04:21.320Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596912861, User Input: 6901
+2024-12-20T17:04:22.352Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233246988050, User Input: 1
+2024-12-20T17:04:22.356Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538976048, User Input: 1
+2024-12-20T17:04:23.433Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233594688645, User Input: 1
+2024-12-20T17:04:24.814Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233597635355, User Input: 2004
+2024-12-20T17:04:26.873Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233509929435, User Input: 1
+2024-12-20T17:04:27.015Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233261759817, User Input: AS9447-13
+2024-12-20T17:04:27.641Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331841, User Input: release
+2024-12-20T17:04:28.553Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538003724, User Input: 5978
+2024-12-20T17:04:29.206Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T17:04:29.640Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233246988050, User Input: 5
+2024-12-20T17:04:29.718Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233272702513, User Input: 12
+2024-12-20T17:04:30.751Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: , User Input: *9020*20
+2024-12-20T17:04:32.770Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233243314712, User Input: 1
+2024-12-20T17:04:33.272Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233242743429, User Input: As8267-15
+2024-12-20T17:04:35.858Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538976048, User Input: 2050
+2024-12-20T17:04:37.224Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233272702513, User Input: 1
+2024-12-20T17:04:38.421Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538003724, User Input: 5978
+2024-12-20T17:04:38.540Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233279119296, User Input: 1010
+2024-12-20T17:04:39.929Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T17:04:40.758Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233243314712, User Input: 0
+2024-12-20T17:04:44.949Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233279119296, User Input: 1010
+2024-12-20T17:04:47.061Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233243314712, User Input: 99
+2024-12-20T17:04:48.630Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538976048, User Input: 2050
+2024-12-20T17:04:49.902Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: glh1
+2024-12-20T17:04:52.601Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233550859185, User Input: 7
+2024-12-20T17:04:56.082Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:04:57.111Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233279119296, User Input: 1010
+2024-12-20T17:05:02.235Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538976048, User Input: 1122
+2024-12-20T17:05:02.551Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:05:08.799Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:05:09.064Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233556984819, User Input: AS 7623 14
+2024-12-20T17:05:09.954Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538976048, User Input: 0538976048
+2024-12-20T17:05:10.008Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233543130075, User Input: 182
+2024-12-20T17:05:22.005Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501669231, User Input: User timeout
+2024-12-20T17:05:30.496Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233509929435, User Input: User timeout
+2024-12-20T17:05:39.855Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T17:08:39.451Z [INFO]: MySQL Connected...
+2024-12-20T17:08:41.438Z [INFO]: MySQL Connected...
+2024-12-20T17:09:02.816Z [INFO]: MySQL Connected...
+2024-12-20T17:09:04.885Z [INFO]: MySQL Connected...
+2024-12-20T17:09:29.852Z [INFO]: MySQL Connected...
+2024-12-20T17:09:36.401Z [INFO]: MySQL Connected...
+2024-12-20T17:09:38.587Z [INFO]: MySQL Connected...
+2024-12-20T17:09:44.756Z [INFO]: MySQL Connected...
+2024-12-20T17:09:57.999Z [INFO]: MySQL Connected...
+2024-12-20T17:10:06.456Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T17:10:08.125Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T17:10:13.065Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:10:16.470Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:10:18.671Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:11:03.828Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233248123355, User Input: 1
+2024-12-20T17:11:28.035Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233538182669, User Input: 5
+2024-12-20T17:12:34.713Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233533310425, User Input: 1
+2024-12-20T17:13:11.910Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233248788890, User Input: #
+2024-12-20T17:13:12.388Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233244260139, User Input: 1
+2024-12-20T17:13:13.130Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233248502143, User Input: 0
+2024-12-20T17:13:15.604Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331841, User Input: 1
+2024-12-20T17:13:15.995Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233553613079, User Input: RA24
+2024-12-20T17:13:16.264Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233541714807, User Input: 1
+2024-12-20T17:13:16.989Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233244403535, User Input: dv7554k24
+2024-12-20T17:13:17.291Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501584116, User Input: 520
+2024-12-20T17:13:17.653Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233533790249, User Input: 4
+2024-12-20T17:13:18.043Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233558660250, User Input: 2
+2024-12-20T17:13:18.856Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233245636623, User Input: 99
+2024-12-20T17:13:20.186Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233256849305, User Input: 1
+2024-12-20T17:13:20.190Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233537011849, User Input: 4
+2024-12-20T17:13:20.587Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233596743127, User Input: 1
+2024-12-20T17:13:22.091Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233244260139, User Input: 1
+2024-12-20T17:13:23.608Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233595744771, User Input: 99
+2024-12-20T17:13:25.784Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233537011849, User Input: 1
+2024-12-20T17:13:25.833Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501331841, User Input: User timeout
+2024-12-20T17:13:27.318Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233534797386, User Input: 1
+2024-12-20T17:13:34.515Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233256849305, User Input: 4276
+2024-12-20T17:13:36.314Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233541714807, User Input: 1245
+2024-12-20T17:13:36.584Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233533790249, User Input: 1
+2024-12-20T17:13:38.291Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233537011849, User Input: 3
+2024-12-20T17:13:40.642Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233553613079, User Input: RA24
+2024-12-20T17:13:42.453Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233537011849, User Input: 1
+2024-12-20T17:13:44.756Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233541714807, User Input: 1714
+2024-12-20T17:13:45.611Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233256849305, User Input: 0256849305
+2024-12-20T17:13:46.884Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233533790249, User Input: 1277
+2024-12-20T17:13:47.201Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501669231, User Input: User timeout
+2024-12-20T17:13:51.540Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233246913667, User Input: 9
+2024-12-20T17:14:01.526Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233553613079, User Input: RA24
+2024-12-20T17:14:13.615Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233256849305, User Input: 41 10
+2024-12-20T17:14:17.173Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233553613079, User Input: RA24
+2024-12-20T17:14:20.800Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233501584116, User Input: User timeout
+2024-12-20T17:14:42.623Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233541714807, User Input: 1
+2024-12-20T17:14:53.040Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233541714807, User Input: 1245
+2024-12-20T17:16:29.815Z [INFO]: MySQL Connected...
+2024-12-20T17:16:37.779Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T17:16:38.268Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T17:16:40.778Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:16:41.233Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:16:41.586Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:17:24.412Z [INFO]: MySQL Connected...
+2024-12-20T17:17:29.485Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-20T17:17:55.353Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: *920*182
+2024-12-20T17:18:04.360Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: glh1
+2024-12-20T17:18:10.100Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:18:15.033Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-20T17:18:20.874Z [INFO]: Received USSD request. SessionId: undefined, MSISDN: 233551196764, User Input: 1
+2024-12-22T17:52:29.282Z [INFO]: MySQL Connected...
+2024-12-22T17:56:30.805Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-22T17:56:33.225Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-22T17:56:40.448Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T17:56:43.244Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T17:56:45.703Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T17:58:27.155Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:03:18.787Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:07:12.985Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:07:30.925Z [INFO]: MySQL Connected...
+2024-12-22T18:08:38.269Z [INFO]: MySQL Connected...
+2024-12-22T18:08:47.521Z [INFO]: MySQL Connected...
+2024-12-22T18:08:52.548Z [INFO]: MySQL Connected...
+2024-12-22T18:08:58.892Z [INFO]: MySQL Connected...
+2024-12-22T18:09:02.183Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-22T18:09:02.731Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: GLH1
+2024-12-22T18:09:09.539Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:09:10.296Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:09:10.650Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:09:57.729Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:05.670Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:07.602Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:47.853Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:48.731Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:49.121Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:49.507Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:49.854Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:50.158Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:10:50.472Z [INFO]: Received USSD request. SessionId: hywww222, MSISDN: 233551196764, User Input: 1
+2024-12-22T18:11:42.828Z [INFO]: MySQL Connected...
