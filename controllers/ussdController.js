@@ -47,6 +47,16 @@ const pool = mysql.createPool({
   connectionLimit: 10, // Inta ugu badan ee isku xirnaanta la oggol yahay
 });
 
+const closePool = () => {
+  pool.end((err) => {
+    if (err) {
+      logger.error("Error closing MySQL Pool:", err);
+    } else {
+      logger.info("MySQL Pool closed successfully.");
+    }
+  });
+};
+
 
 pool.on("error", (err) => {
   logger.error("MySQL Pool Error:", err);
