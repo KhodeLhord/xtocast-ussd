@@ -39,10 +39,22 @@ db.connect((err) => {
   logger.info("MySQL Connected...");
 });
 
-// Fetch nominee details by code
+const pool = mysql.createPool({
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_NAME,
+  connectionLimit: 10, // Inta ugu badan ee isku xirnaanta la oggol yahay
+});
+
+
+pool.on("error", (err) => {
+  logger.error("MySQL Pool Error:", err);
+});
+
 const getNomineeByCode = (nomineeCode) => {
   return new Promise((resolve, reject) => {
-    db.query(
+    pool.query(
       `SELECT 
         Evoting_Nominees.name AS nominee_name,
         Evoting_Nominees.id AS nominee_id,
@@ -67,6 +79,35 @@ const getNomineeByCode = (nomineeCode) => {
     );
   });
 };
+
+// // Fetch nominee details by code
+// const getNomineeByCode = (nomineeCode) => {
+//   return new Promise((resolve, reject) => {
+//     db.query(
+//       `SELECT 
+//         Evoting_Nominees.name AS nominee_name,
+//         Evoting_Nominees.id AS nominee_id,
+//         Evoting_Categories.name AS category_name,
+//         Evoting_Events.name AS event_name,
+//         Evoting_Events.cost_per_vote,
+//         Evoting_Events.id AS event_id,
+//         Evoting_Categories.id AS category_id,
+//         Evoting_Events.event_code AS event_code
+//        FROM Evoting_Nominees
+//        JOIN Evoting_Categories ON Evoting_Nominees.category_id = Evoting_Categories.id
+//        JOIN Evoting_Events ON Evoting_Categories.event_id = Evoting_Events.id
+//        WHERE Evoting_Nominees.nominee_code = ?`,
+//       [nomineeCode],
+//       (err, result) => {
+//         if (err) {
+//           logger.error(`Error fetching nominee for code ${nomineeCode}`, err);
+//           return reject(err);
+//         }
+//         resolve(result.length ? result[0] : null);
+//       }
+//     );
+//   });
+// };
 
 // Check transaction status
 // const checkTransactionStatus = async (reference) => {
@@ -239,7 +280,7 @@ exports.handleUssdRequest = async (req, res) => {
               let statusChecked = false;
 
               // Retry checking transaction status up to 5 times with 10-second intervals
-              for (let i = 0; i < 10; i++) {
+              for (let i = 0; i < 5; i++) {
                 console.log("Checking transaction status, attempt ${i + 1}...");
 
                 // Check the status of the transaction
