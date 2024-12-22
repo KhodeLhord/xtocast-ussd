@@ -239,7 +239,7 @@ exports.handleUssdRequest = async (req, res) => {
               let statusChecked = false;
 
               // Retry checking transaction status up to 5 times with 10-second intervals
-              for (let i = 0; i < 5; i++) {
+              for (let i = 0; i < 10; i++) {
                 console.log("Checking transaction status, attempt ${i + 1}...");
 
                 // Check the status of the transaction
